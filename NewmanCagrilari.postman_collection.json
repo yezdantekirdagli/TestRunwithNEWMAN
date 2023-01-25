@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "48e2b1f5-b9c0-4ca4-9e82-356914200ad2",
+		"name": "NewmanCagrilari",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25377924"
+	},
+	"item": [
+		{
+			"name": "FetchList",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GetCollection",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ObtainEnvironments",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
